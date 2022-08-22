@@ -1,5 +1,5 @@
 # scraper_wiki_table
-This project contains a single wiki_scrapae_table function that takes a single string argument and returns the table (if available) of corresponding wikipedia page.
+This project contains a single wiki_scrape_table() function that takes a single string argument and returns the table (if available) of corresponding wikipedia page.
 In the example use in the main.py asks user to enter an input, then calls the wiki_scrape_table() function with the input as an argument.
 
 If the user enters 'Elon Musk', the function yields following result:
